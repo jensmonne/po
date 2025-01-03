@@ -15,4 +15,4 @@ This is a Discord bot that tracks the number of times users say "po" in a specif
    pip install -r requirements.txt
 4. add your bot token and channel ID to the .env file.
 5. run the bot:
-    python po.py
+   python po.py
