@@ -10,8 +10,8 @@ load_dotenv()
 # Retrieve the bot's token from the environment variables
 TOKEN = os.getenv('DISCORD_TOKEN')
 
-# The ID of the channel where the bot will operate
-TARGET_CHANNEL_ID = 1324509748003078248
+# Retrieve the ID of the channel where the bot will operate
+TARGET_CHANNEL_ID = os.getenv('TARGET_CHANNEL_ID')
 
 # File name to store the "po" counts for each users
 PO_COUNTS_FILE = 'po_counts.json'
