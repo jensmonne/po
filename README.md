@@ -20,4 +20,4 @@ https://pip.pypa.io/en/stable/installation/
 
 ## Important
 Make sure the bot has the following permissions: send messages, read messages and view channels.
-If it does not have acess to one of there some to all of the functionality will be lost.
+If it is missing any of these permissions the bot might not work as intended.
