@@ -5,6 +5,7 @@ This is a Discord bot that tracks the number of times users say "po" in a specif
 ## Prerequisites
 1. Install Python (3.8 or higher).
 2. Ensure `pip` is installed.
+   https://pip.pypa.io/en/stable/installation/
 
 ## Setup Instructions
 1. Clone or download this repository.
