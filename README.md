@@ -2,12 +2,18 @@
 
 This is a Discord bot that tracks the number of times users say "po" in a specified channel.
 
-## Prerequisites
+### To-do list
+Add achievements/titles you can gain by sending po's.
+when you do !po and then ping a user you will see their respective po counts.
+
+## Install guide
+
+### Prerequisites
 1. Install Python (3.11).
 2. Ensure `pip` is installed.
 https://pip.pypa.io/en/stable/installation/
 
-## Setup Instructions
+### Setup Instructions
 1. Clone or download this repository.
 2. Navigate to the project folder.
 3. Install dependencies:
@@ -18,6 +24,6 @@ https://pip.pypa.io/en/stable/installation/
    ```bash
    python po.py
 
-## Important
+### Important
 Make sure the bot has the following permissions: send messages, read messages and view channels.
 If it is missing any of these permissions the bot might not work as intended.
