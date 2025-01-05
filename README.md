@@ -4,9 +4,8 @@ This is a Discord bot that tracks the number of times users say "po" in a specif
 
 ### To-do list
 1. Add achievements/titles you can gain by sending po's.
-2. When you do !po and then ping a user you will see their respective po counts.
-3. Admin permissions like not having the leaderboard user limit or being able to shut down/restart or make it recount all the po's the bot via a command in discord
-4. Add a po shop where polectors can trade in their po's counts for items
+2. Admin permissions like not having the leaderboard user limit or being able to shut down/restart or make it recount all the po's the bot via a command in discord
+3. Add a po shop where polectors can trade in their po counts for items
 
 ## Install guide
 
